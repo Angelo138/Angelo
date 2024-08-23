@@ -10,7 +10,7 @@ Actualmente tengo 23 años, me gustan los videojuegos 🎮👾 y el anime. ㊙
     <a href="mailto:angelo.leon@ug.uchile.cl">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="CV Angelo león gianoni">
+    <a href="/CV Angelo león gianoni.pdf">
         <img src="https://img.shields.io/badge/Resume-Blue?style=for-the-badge&logoColor=white"/>
     </a>
 </p>
